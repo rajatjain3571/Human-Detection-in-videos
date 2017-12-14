@@ -1,0 +1,5 @@
+1. Download dataset from  http://pascal.inrialpes.fr/data/human/
+2. Put this data set on Data folder
+3. Put test image in test_images folder
+4. put video on which you want to test in project directory by the name of "1.mp4"
+5. Execute the code
